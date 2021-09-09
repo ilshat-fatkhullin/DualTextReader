@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DualTextReader": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\ilsha\\Desktop\\Hemingway-Komu-zvoni-hrana.pdf"
+    }
+  }
+}
